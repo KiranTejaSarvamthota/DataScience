@@ -30,7 +30,7 @@ Jupyter Notebook using Anaconda
    * Random Forest Regression  
 
 ## Image 
-![alt text](images/Reading Raw Data 1.PNG)
+![alt text](Images/Reading Raw Data 1.PNG)
 
 ## Image 
-![alt text](images/Regression model 8.PNG)
+![alt text](Images/Regression model 8.PNG)
