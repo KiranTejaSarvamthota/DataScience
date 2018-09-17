@@ -29,4 +29,8 @@ Jupyter Notebook using Anaconda
    * K - Means
    * Random Forest Regression  
 
+## Image 
+![alt text](images/Reading Raw Data 1.PNG)
 
+## Image 
+![alt text](images/Regression model 8.PNG)
